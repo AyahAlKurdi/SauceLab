@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-15T14:07:22 EEST" name="Default suite" finished-at="2022-10-15T14:07:27 EEST" duration-ms="4250">
+    <groups>
+    </groups>
+    <test started-at="2022-10-15T14:07:22 EEST" name="Default test" finished-at="2022-10-15T14:07:27 EEST" duration-ms="4250">
+      <class name="Saucelab2.LoginPage">
+        <test-method signature="navigate()[pri:1, instance:Saucelab2.LoginPage@323b36e0]" started-at="2022-10-15T14:07:22 EEST" name="navigate" finished-at="2022-10-15T14:07:26 EEST" duration-ms="3623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method signature="credentials()[pri:2, instance:Saucelab2.LoginPage@323b36e0]" started-at="2022-10-15T14:07:26 EEST" name="credentials" finished-at="2022-10-15T14:07:26 EEST" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credentials -->
+        <test-method signature="close()[pri:3, instance:Saucelab2.LoginPage@323b36e0]" started-at="2022-10-15T14:07:26 EEST" name="close" finished-at="2022-10-15T14:07:27 EEST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Saucelab2.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
